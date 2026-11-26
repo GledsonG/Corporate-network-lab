@@ -6,3 +6,4 @@ Objetivo:
 Simular uma rede corporativa com Vlans, roteamento e WI-fi para visitantes.
 
 
+![(topologia.png)]
